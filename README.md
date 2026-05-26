@@ -27,7 +27,7 @@ It empowers individual Windows developers using multiple AI CLIs (such as Claude
 *   **Data Layer & Flywheel**: Local-first monitoring and analytics for agent activity, performance, and resource usage, with export capabilities for traces, context cards, and eval cases.
 *   **Extensible Skill System**: Agents can load skills dynamically based on task triggers and preconditions, with self-rewrite hooks for continuous improvement.
 
-<img src="DemiugoCli1.png" alt="Demiurgo" />
+<img src="DemirugoCli1.png" alt="Demiurgo" />
 
 ## Installation
 
