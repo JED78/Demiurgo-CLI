@@ -35,8 +35,8 @@ To get Demiurgo CLI up and running on your local machine, follow these steps:
 
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/JED78/demiurgo-v3.git # Replace with actual repo URL if different
-    cd demiurgo-v3
+    git clone https://github.com/JED78/demiurgo.git # Replace with actual repo URL if different
+    cd demiurgo
     ```
 2.  **Install Dependencies**:
     ```bash
