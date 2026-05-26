@@ -12,7 +12,7 @@ Demiurgo CLI is a professional-grade multi-terminal orchestration framework desi
 
 It empowers individual Windows developers using multiple AI CLIs (such as Claude Code, Copilot, OpenCode, Ollama, Kilo, and Pi) who require shared context, parallel Git branches, and local automation to eliminate friction from their "vibe coding" experience.
 
-<img src="img/DemiurgoCli.png" alt="Demiurgo" />
+<img src="DemiurgoCli.png" alt="Demiurgo" />
 
 ## Features
 
@@ -27,7 +27,7 @@ It empowers individual Windows developers using multiple AI CLIs (such as Claude
 *   **Data Layer & Flywheel**: Local-first monitoring and analytics for agent activity, performance, and resource usage, with export capabilities for traces, context cards, and eval cases.
 *   **Extensible Skill System**: Agents can load skills dynamically based on task triggers and preconditions, with self-rewrite hooks for continuous improvement.
 
-<img src="img/DemiurgoCli1.png" alt="Demiurgo" />
+<img src="DemiurgoCli1.png" alt="Demiurgo" />
 
 ## Installation
 
